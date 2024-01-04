@@ -1,0 +1,1 @@
+In this folder the trained weights will be saved
